@@ -1,1 +1,2 @@
-Third text file last edited from experimental branch
+Hey, this is a new file, created in master branch to test if it survives a pull request from fourth branch, which doesn't have this file.
+We know it won't survive a merge request from the fourth branch.
