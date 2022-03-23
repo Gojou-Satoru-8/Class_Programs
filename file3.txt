@@ -1,1 +1,1 @@
-This is the third text file, created while in second-branch.
+Third text file is edited from within second branch
